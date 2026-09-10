@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ecommerce App
 
 A Flutter shopping app demo that loads products from the DummyJSON API and
