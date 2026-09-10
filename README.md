@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce App
 
 A Flutter shopping app demo that loads products from the DummyJSON API and
@@ -62,3 +63,7 @@ are assembled in `InjectionContainer` before the app starts.
 - [`dio`](https://pub.dev/packages/dio) for HTTP requests
 - [`equatable`](https://pub.dev/packages/equatable) for value comparisons
 - [`cupertino_icons`](https://pub.dev/packages/cupertino_icons) for icons
+=======
+# Ecommerce_Demo
+A simple Flutter e-commerce app using the DummyJSON REST API. Built with Clean Architecture, BLoC for state management, Repository Pattern, and Dependency Injection. Features include product browsing, search, product details, cart management, and responsive UI for mobile and web.
+>>>>>>> 7aac61449de7b90aa4a38afee2fb0a6268825e29
